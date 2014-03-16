@@ -1,3 +1,12 @@
+##Creative Tabs
+itemGroup.ExtraTorches=Extra Torches
+item.ExtraTorchesTabPlaceHolder.name=TabsPlaceholder
+
+##Blocks
 tile.blockTorchBlock.name=Torch Block
 tile.blockBetterCoal.name=Better Coal Ore
-itemGroup.ExtraTorches=Extra Torches Tab
+
+##Items
+item.BetterCoal.name=Better Coal
+
+##Tools
