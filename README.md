@@ -1,4 +1,4 @@
 Extra Torches
 ============
 
-A Minecraft Torch Mod
+A Minecraft w/ MOAR Torches Mod
